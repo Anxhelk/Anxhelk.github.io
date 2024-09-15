@@ -1,0 +1,55 @@
+.cta-section {
+    background-color: #000;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .cta-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .kicker {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .main-heading {
+    font-size: 32px;
+    margin: 20px 0;
+    font-weight: bold;
+  }
+  
+  .extra-context {
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 1.6;
+  }
+  
+  .key-points {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  
+  .key-points li {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .cta-button {
+    background-color: #f0a500;
+    color: #000;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #ffa500;
+  }
+  
